@@ -21,11 +21,14 @@ The stock and product details are managed through a JSON file.
 Python
 
 Tkinter: For building the GUI (buttons, text fields, images, etc.).
+
 Pillow (PIL): For handling and displaying images within the application.
+
 JSON: To store product information and user data.
+
 Hashlib: For secure password hashing using SHA-256.
 
-## File Structure
+## File Structure:
 main.py: Entry point of the application, displaying the home page.
 authentication.py: Handles user registration, login, and validation.
 buying_page.py: Displays available products and manages the buying functionality.
