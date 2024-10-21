@@ -1,7 +1,6 @@
 # Online Shopping Application
 
-
-Overview
+## Overview
 This is a simple Online Shopping Application built with Python using the Tkinter library for the graphical user interface (GUI). The application allows users to register, log in, view available products, and purchase items.
 
 Features
