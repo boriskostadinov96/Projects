@@ -22,7 +22,7 @@ Requests: For making API requests to the EdenAI API.
 
 EdenAI API: Provides the image generation service based on text input.
 
-# How It Works
+# How It Works:
 User enters a text prompt in the input field.
 
 On clicking the "Generate" button, the text is sent to the EdenAI API, which generates an image.
