@@ -12,7 +12,7 @@ Error Handling:
 Displays an error message if the user input is invalid or no image can be generated.
 
 # Technologies Used:
-Python:
+Python
 
 Tkinter: For building the GUI (buttons, text fields, image display).
 
