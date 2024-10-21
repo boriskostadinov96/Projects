@@ -7,6 +7,7 @@ This Image Generator Application allows users to generate images based on a text
 Text-to-Image Generation:
 Users can input a text description, which is sent to the EdenAI API.
 The API returns a generated image based on the provided text, which is then displayed in the application.
+
 Error Handling:
 Displays an error message if the user input is invalid or no image can be generated.
 
