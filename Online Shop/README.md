@@ -1,9 +1,9 @@
 # Online Shopping Application
 
-## Overview
+## Overview:
 This is a simple Online Shopping Application built with Python using the Tkinter library for the graphical user interface (GUI). The application allows users to register, log in, view available products, and purchase items.
 
-Features
+## Features:
 User Registration & Login:
 
 New users can register with their first name, last name, username, and password.
@@ -16,7 +16,8 @@ Product Purchasing:
 
 Users can purchase available products, and the stock is updated in real-time.
 The stock and product details are managed through a JSON file.
-Technologies Used
+
+## Technologies Used:
 Python: Main programming language.
 Tkinter: For building the GUI (buttons, text fields, images, etc.).
 Pillow (PIL): For handling and displaying images within the application.
