@@ -30,9 +30,15 @@ Hashlib: For secure password hashing using SHA-256.
 
 ## File Structure:
 main.py: Entry point of the application, displaying the home page.
+
 authentication.py: Handles user registration, login, and validation.
+
 buying_page.py: Displays available products and manages the buying functionality.
+
 canvas.py: Initializes the Tkinter window and canvas for displaying widgets.
+
 helpers.py: Contains utility functions like screen cleaning and password hashing.
+
 db/products.json: Stores product data (name, stock quantity, image path).
+
 db/users_info.txt: Stores registered user information in JSON format.
