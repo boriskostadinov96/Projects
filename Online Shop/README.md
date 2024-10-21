@@ -19,6 +19,7 @@ The stock and product details are managed through a JSON file.
 
 ## Technologies Used:
 Python
+
 Tkinter: For building the GUI (buttons, text fields, images, etc.).
 Pillow (PIL): For handling and displaying images within the application.
 JSON: To store product information and user data.
