@@ -36,8 +36,8 @@ User Interface:
 
 - Django Forms: For handling user input and validation during album and song creation.
 
-
-
+```
+```
 
 # 2. AI Image Generator
 ## <a href="https://github.com/boriskostadinov96/AI-Image-Generator">Link to repository</a>
