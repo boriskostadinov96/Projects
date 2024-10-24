@@ -1,7 +1,7 @@
 # Projects:
 
-1. # Music Web Application
-<a href="https://github.com/boriskostadinov96/Music-App">Link to repo</a>
+# 1. Music Web Application <a href="https://github.com/boriskostadinov96/Music-App">Link to repo</a>
+
 ## Overview:
 This is a music web application built with Python using Django as the web framework, SQLAlchemy for ORM, and PostgreSQL as the database. The application allows users to manage music albums and songs, providing functionalities for creating, editing, deleting, and viewing albums and songs.
 
