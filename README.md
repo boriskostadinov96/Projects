@@ -37,6 +37,8 @@ User Interface:
 - Django Forms: For handling user input and validation during album and song creation.
 
 
+
+
 # 2. AI Image Generator
 ## <a href="https://github.com/boriskostadinov96/AI-Image-Generator">Link to repository</a>
 
@@ -72,6 +74,8 @@ Displays an error message if the user input is invalid or no image can be genera
 # API Setup
 
 To use this project, you need an API key from EdenAI to access their image generation services. You can set your API key in the get_image_url() function's header section.
+
+
 
 
 # 3. Online Shopping Application
