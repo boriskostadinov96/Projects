@@ -1,6 +1,6 @@
 # Projects:
 
-# 1. Music Web Application 
+# 1.Music Web Application 
 ## <a href="https://github.com/boriskostadinov96/Music-App">Link to repository</a>
 
 ## Overview:
@@ -37,7 +37,7 @@ User Interface:
 - Django Forms: For handling user input and validation during album and song creation.
 
 
-# 2. AI Image Generator
+# 2.AI Image Generator
 ## <a href="https://github.com/boriskostadinov96/AI-Image-Generator">Link to repository</a>
 
 ## Overview:
@@ -74,7 +74,7 @@ Displays an error message if the user input is invalid or no image can be genera
 To use this project, you need an API key from EdenAI to access their image generation services. You can set your API key in the get_image_url() function's header section.
 
 
-# 3. Fruitipedia Web App
+# 3.Fruitipedia Web App
 ## <a href="https://github.com/boriskostadinov96/Fruitipedia">Link to repository</a>
 
 ## Overview:
@@ -118,7 +118,7 @@ Secure Form Submission:
 
 
 
-# 4. Online Shopping Application
+# 4.Online Shopping Application
 ## <a href="https://github.com/boriskostadinov96/Online-Shop-Application">Link to repository</a>
 
 ## Overview:
@@ -165,3 +165,33 @@ Product Purchasing:
 - db/products.json: Stores product data (name, stock quantity, image path).
 
 - db/users_info.txt: Stores registered user information in JSON format.
+
+
+# 5.Phonebook Web Application
+
+## Overview:
+This is a phonebook web application built with Python using Django as the web framework and SQLite3 as the database. The application allows users to manage contacts, providing functionalities for creating and viewing stored contacts in a simple interface.
+
+## Features:
+Contact Management:
+
+- Users can add new contacts to the phonebook. Each contact has a name and a phone number, which are entered through a web form.
+
+Contact List Display:
+
+- All saved contacts are displayed on the main page, providing a quick overview of stored contact details in a simple table format.
+
+User Interface:
+
+- The application features a straightforward, user-friendly interface built with Django templates. It includes navigation and form handling, making it easy to add and view contacts.
+
+## Technologies Used:
+- Python: The core programming language for the application.
+
+- Django: The web framework used for developing the application.
+
+- SQLite3: Database system used to store and retrieve contact information.
+
+- HTML/CSS: For structuring and styling the user interface.
+
+- Django Templates: For rendering dynamic content, including contact lists and form handling for adding contacts.
