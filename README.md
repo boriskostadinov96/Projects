@@ -23,6 +23,22 @@ User Interface:
 
 - The application features a user-friendly web interface built with Django templates, allowing for easy navigation between album and song management.
 
+## Features:
+Add/Set Items:
+
+- Uses a custom hash function to map keys to indices.
+
+Resizing:
+
+- Automatically expands storage when needed.
+
+Sort:
+
+- Returns a new, sorted hash table by keys in ascending order.
+
+- String Representation: Outputs a readable version of stored items.
+
+- Automatically expands storage when needed.
 ## Technologies Used:
 - Python: The core programming language for the application.
 
