@@ -1,5 +1,5 @@
 # 6.Custom List
-## <a href="https://github.com/boriskostadinov96/Projects/tree/main/custom_hash_table">Link to repository</a>
+## <a href="https://github.com/boriskostadinov96/Projects/tree/main/custom_list_project">Link to repository</a>
 
 ## Overview:
 This project is a custom list implementation in Python, designed to mimic Python's built-in list but with added functionality such as dynamic resizing, sorting options, and robust error handling. The project includes unit tests to verify functionality.
