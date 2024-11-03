@@ -1,4 +1,4 @@
-# 6.Custom Hash Table Project
+# Custom Hash Table Project
 ## <a href="https://github.com/boriskostadinov96/Projects/tree/main/custom_hash_table">Link to repository</a>
 
 ## Overview:
