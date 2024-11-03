@@ -1,4 +1,4 @@
-# 6.Custom List
+# Custom List
 ## <a href="https://github.com/boriskostadinov96/Projects/tree/main/custom_list_project">Link to repository</a>
 
 ## Overview:
